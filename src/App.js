@@ -7,15 +7,15 @@ export default function App() {
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
-        <Weather />
+        <Weather defaultCity="Dallas" />
         <footer>
           This project is coded by Kristin Andreska and is{" "}
           <a
             href="https://github.com/kandreska/react-project-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
-            Open-Sourced on GitHub
+            Open-Sourced on GitHub hosted on Netlify
           </a>
         </footer>
       </div>
