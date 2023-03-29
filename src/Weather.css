@@ -1,5 +1,5 @@
 .Weather {
-  font-family: arial, sans-serif;
+  font-family: "Poppins", sans-serif;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 4px;
@@ -11,11 +11,14 @@
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
+  font-family: "Poppins, sans-serif";
+  color: #467186;
 }
 
 .Weather ul {
   margin: 0;
   padding: 0;
+  background-color: beige;
 }
 
 .Weather li {
@@ -28,7 +31,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: ##1e1e1e;
+  color: #1e1e1e;
   font-size: 64px;
   line-height: 64px;
   margin-left: 5px;
