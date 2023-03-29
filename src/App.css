@@ -7,10 +7,3 @@
   font-size: 11px;
   margin: 10px 0;
 }
-
-.btn-primary {
-  --bs-btn-color: #467186;
-    --bs-btn-bg: #467186;
-    --bs-btn-border-color: #467186;
-    --bs-btn-hover-color: #c4d7e0;
-}
